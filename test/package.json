@@ -1,0 +1,20 @@
+{
+  "name": "ci-22nov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahesh102005/demoyml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahesh102005/demoyml/issues"
+  },
+  "homepage": "https://github.com/mahesh102005/demoyml#readme"
+}
